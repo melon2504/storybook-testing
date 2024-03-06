@@ -47,3 +47,10 @@ https://dev.to/receter/how-to-create-a-react-component-library-using-vites-libra
 
 Build & packaging
 https://docs.npmjs.com/cli/v10/configuring-npm/package-json#files
+https://github.com/storybookjs/storybook/issues/6576
+https://stackoverflow.com/questions/68558319/different-set-of-dependencies-for-storybook-and-production-built
+
+
+https://github.com/storyblok/mui
+https://prateeksurana.me/blog/react-component-library-using-storybook-7/
+
