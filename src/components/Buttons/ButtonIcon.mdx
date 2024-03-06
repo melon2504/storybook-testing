@@ -1,0 +1,34 @@
+import { Meta, Story } from "@storybook/blocks";
+import * as ButtonIconStories from "./ButtonIcon.stories";
+
+How do we import button icon
+
+### TSX
+
+This is an example with language specified as `tsx`
+
+```tsx
+import type { Meta, StoryObj } from "@storybook/react";
+
+import { Button, ButtonProps } from "./Button";
+
+const meta = {
+  component: Button,
+} satisfies Meta<typeof Button>;
+
+export default meta;
+type Story = StoryObj<typeof meta>;
+
+export const Primary: Story = {
+  args: {
+    primary: true,
+    label: "Button",
+  },
+};
+```
+
+for more details refer MUI docs
+
+<Meta name="Info" of={ButtonIconStories} />
+
+<Story of={ButtonIconStories.Default} />

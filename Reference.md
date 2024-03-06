@@ -1,0 +1,49 @@
+Source code not showing properly
+
+- jsx elements passed as prop
+  https://github.com/storybookjs/storybook/blob/master/addons/docs/docs/recipes.md#customizing-source-snippets
+
+Import statements
+
+> maybe in mdx/descript - add how to import
+> https://angular.carbondesignsystem.com/?path=/docs/components-accordion--docs
+> https://github.com/storybookjs/storybook/blob/master/addons/docs/docs/recipes.md#customizing-source-snippets
+
+Versioning
+https://github.com/storybookjs/addon-kit
+
+Controls for changing color
+
+Nested types/interfaces
+https://github.com/storybookjs/storybook/issues/12078
+https://github.com/formaat-design/reshaped/issues/212
+https://github.com/storybookjs/storybook/issues/16089
+https://github.com/storybookjs/storybook/issues/7944
+https://github.com/storybookjs/storybook/issues/7943
+
+Examples
+https://github.com/formaat-design/reshaped/issues/212
+https://react-spectrum.adobe.com/react-aria-tailwind-starter/index.html?path=/docs/tooltip--docs
+
+Anything that is object - changing control gives error
+
+theme
+
+Buttons
+Tabs
+Forms
+Fields
+Toggles
+Toasts
+Grid
+Modal
+Chip
+Datepicker
+
+Component-lib
+https://dimitrisanastasiadis.com/blog/create-a-simple-react-component-library-with-vite
+https://dev.to/nicolaserny/create-a-react-component-library-with-vite-and-typescript-1ih9
+https://dev.to/receter/how-to-create-a-react-component-library-using-vites-library-mode-4lma
+
+Build & packaging
+https://docs.npmjs.com/cli/v10/configuring-npm/package-json#files
