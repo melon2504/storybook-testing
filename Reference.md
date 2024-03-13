@@ -54,3 +54,15 @@ https://stackoverflow.com/questions/68558319/different-set-of-dependencies-for-s
 https://github.com/storyblok/mui
 https://prateeksurana.me/blog/react-component-library-using-storybook-7/
 
+
+14-03-2024
+
+https://medium.com/gumgum-tech/writing-a-shared-react-component-library-with-storybook-78e723438338
+https://github.com/storybookjs/storybook/issues/6576
+
+https://stackoverflow.com/questions/63522338/install-and-use-storybook-in-a-demo-page
+
+https://storybook.js.org/tutorials/design-systems-for-developers/react/en/workflow/
+
+
+https://www.reddit.com/r/reactjs/comments/olh5eo/using_storybook_in_your_app_or_as_a_separate/
